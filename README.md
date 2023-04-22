@@ -41,7 +41,7 @@ Histogram data for the counts of squirrel event_type is saved to histogram_squir
     such as valid event types, bin size, input/output files, and other parameters, and make them configurable.
     
 2 Automation
-    Is there a way to automate the tool and integrate it with an existing scheduler to run automatically?
+   Is there a way to automate the tool and integrate it with an existing scheduler to run automatically?
     
 3 Observability 
     Observability is important to gain insights into the input data's quality, quantity, 
