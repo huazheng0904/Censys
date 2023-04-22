@@ -46,7 +46,7 @@ Histogram data for the counts of squirrel event_type is saved to histogram_squir
 3 Observerbility 
     
     Observability is important to gain insights into the input data's quality, quantity, 
-nd other essential metrics. 
+and other essential metrics. 
 Having a dashboard to provide information on the number of files processed and the time it takes would be helpful. 
 Additionally, alerts can be set up to detect anomalous data and exceptions.
                  
