@@ -44,7 +44,6 @@ Histogram data for the counts of squirrel event_type is saved to histogram_squir
     Is there a way to automate the tool and integrate it with an existing scheduler to run automatically?
     
 3 Observability 
-    
     Observability is important to gain insights into the input data's quality, quantity, 
 and other essential metrics. 
 Having a dashboard to provide information on the number of files processed and the time it takes would be helpful. 
