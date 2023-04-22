@@ -3,7 +3,7 @@ This tool is developed with python3 and dandas, matplotlib.
 please make sure all required software and libraries are installed before running the tool
 
 
-## Prereqisites
+## Prerequisites
 
 1. Install python 3
 2. Install pandas 
@@ -43,7 +43,7 @@ Histogram data for the counts of squirrel event_type is saved to histogram_squir
 2 Automation
     Is there a way to automate the tool and integrate it with an existing scheduler to run automatically?
     
-3 Observerbility 
+3 Observability 
     
     Observability is important to gain insights into the input data's quality, quantity, 
 and other essential metrics. 
